@@ -11,7 +11,7 @@ thumbnail: images/output_22_0.svg
 title: Teaching Machines to Draw
 tldr: A generative recurrent neural network capable of producing sketches of common
   objects
-updated_at: 2019-05-18 00:08:12.242552
+updated_at: 2019-05-17 16:30:10.589128
 ---
 
 ### Requirements:
